@@ -1,0 +1,8 @@
+.navLink:hover {
+  text-decoration: none;
+}
+
+.active {
+  color: #5a67d8 !important;
+  border-bottom: 1px solid#5A67D8;
+}

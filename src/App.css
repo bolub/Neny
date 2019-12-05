@@ -1,22 +1,10 @@
-.App {
-  text-align: center;
+.nav-link{
+  font-size: .9em;
 }
 
-.App-logo {
-  height: 40vmin;
+h2{
+  color: #2D3748;
+  font-size: 1.4em;
+  letter-spacing: -0.5px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
-}
